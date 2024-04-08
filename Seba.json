@@ -1,14 +1,11 @@
 {
-  "employees": [
+  "posts": [
     {
       "id": 1,
-      "name": "Pankaj",
-      "salary": "10000"
-    },
-    {
-      "id": 2
-      "name": "David",
-      "salary": "5000",
-     }
-  ]
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
